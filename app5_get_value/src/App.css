@@ -1,0 +1,73 @@
+.bg0{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction:column;
+  flex-wrap:  wrap ;
+  justify-content:space-around;
+  align-items: center ;
+  background-color:rgb(150,185,125);
+}
+.box0{
+  width: 100vw;
+  height:10vh ;
+  display: flex;
+  /* flex-direction:column; */
+  flex-direction:row;
+  flex-wrap:  wrap ;
+  justify-content:space-around;
+  align-items: center ;
+  background-color:rgb(150,185,125);
+}
+.box1{
+  width: 100vw;
+  height:35vh ;
+  display: flex;
+  flex-direction:row;
+  flex-wrap:  nowrap ;
+  justify-content:space-around;
+  align-items: center ;
+  /* background-color: rgb(125, 171, 185); */
+}
+.box2{
+  width: 100vw;
+  height:50vh ;
+  display: flex;
+  flex-direction:row;
+  flex-wrap:  nowrap ;
+  justify-content:space-around;
+  align-items: center ;
+  /* background-color: rgb(125, 168, 185); */
+}
+.factory1{
+font-size: 40px;
+align-items: center;
+
+position: relative;
+/* margin: 100px auto 0; */
+}
+.factory2{
+  font-size: 40px;
+/*   width: 30vw;
+  height:35vh ; */
+  /* background-color: grey; */
+  position: relative;
+}
+.factory3{
+  font-size: 40px;
+  /* width: 90vw;
+  height:50vh ; */
+  /* background-color: grey; */
+  position: relative;
+}
+.parents_children{
+  position: absolute;
+  top: 40%;
+  left: 45%;
+}
+.parents_children1{
+  position: absolute;
+  top: 40%;
+  /* left: 45%; */
+  left: 200px;
+}

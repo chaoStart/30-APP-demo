@@ -1,0 +1,8 @@
+.home-videobtn .cvideo {
+  /* border-color: #5084af; */
+  /* border-width: 0.5vw; */
+  border-color: red;
+  border-width: 5px;
+  border-style: ridge;
+  cursor: pointer;
+}

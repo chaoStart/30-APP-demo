@@ -1,0 +1,36 @@
+.jianju{
+height: 6px;
+width: 1183.36px;
+background-color: rgba(0, 0, 0, 0.42);
+}
+.differApp4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items:center;
+    position: relative;
+    height: 120px;
+    width: 1150px;
+    background-size: 100% 100%;
+    /* background-image: url("../../pictures/外框928_219@2x.png"); */
+    background-image: url("../../pictures/外框928_219@2x.png");
+    background-color: rgb(37,57,89);
+}
+.top1{
+    width: 1183.36px; 
+    height: 5px;  
+}
+.buttom1{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items:center;
+    width: 1183.36px;
+    height: 115px;
+}
+.YH1{
+    display: flex;
+    flex-direction:column;
+    align-content:space-around ;
+    align-items:center;
+}

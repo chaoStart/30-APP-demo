@@ -1,0 +1,26 @@
+.bg0{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction:column;
+  flex-wrap:  wrap ;
+  justify-content:space-around;
+  /* justify-content:flex-start; */
+  align-items: center ;
+  /* position: relative; */
+  /* background-color: darkblue; */
+  background-color: lightblue;
+  overflow:hidden
+
+}
+.input_xy{
+  width: 100vw;
+  height: 5vh ;
+  background-color: pink;
+}
+.position_direction{
+  width: 45vw;
+  height: 45vh;
+  position: relative;
+  background-color: yellowgreen;
+}
